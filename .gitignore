@@ -1,4 +1,5 @@
 *.pkl
+input.csv
 output.csv
 __pycache__/
 .vscode/
