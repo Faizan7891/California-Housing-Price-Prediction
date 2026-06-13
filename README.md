@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # California Housing Price Prediction
 
 ## Project Overview
@@ -83,4 +82,3 @@ Faizan Shaikh
 =======
 # California-Housing-Price-Prediction
 Machine Learning project that predicts California house prices using Random Forest Regression, data preprocessing pipelines, feature scaling, one-hot encoding, and stratified sampling.
->>>>>>> f4e6920f28ff1ddf1725730c613d2504b9833e92
