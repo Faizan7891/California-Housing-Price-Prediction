@@ -1,0 +1,4 @@
+*.pkl
+output.csv
+__pycache__/
+.vscode/
